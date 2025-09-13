@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'JereNwa\'s Blog',
+  title: 'JereNwa',
   author: 'JereNwa',
-  headerTitle: 'JereNwa\'s Blog',
-  description: 'JereNwa\'s personal blog created with Next.js and Tailwind.css',
+  headerTitle: 'JereNwa',
+  description: 'JereNwa\'s personal website created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
