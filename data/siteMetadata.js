@@ -6,8 +6,8 @@ const siteMetadata = {
   description: 'JereNwa\'s personal website and blog',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://tailwind-nextjs-starter-blog-six-gamma.vercel.app',
+  siteRepo: 'https://github.com/JereNwa/jerenwa.is-a.dev',
   // siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   // mastodon: 'https://mastodon.social/@mastodonuser',
