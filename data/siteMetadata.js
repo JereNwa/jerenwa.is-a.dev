@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'JereNwa',
   headerTitle: 'JereNwa',
   description: 'JereNwa\'s personal website and blog',
-  language: 'en-us',
+  language: 'en-uk',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog-six-gamma.vercel.app',
   siteRepo: 'https://github.com/JereNwa/jerenwa.is-a.dev',
@@ -24,7 +24,7 @@ const siteMetadata = {
   // bluesky: 'https://bsky.app/',
   // locale: 'en-UK',
   // set to true if you want a navbar fixed to the top
-  stickyNav: false,
+  stickyNav: true,
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
